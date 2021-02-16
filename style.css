@@ -1,0 +1,30 @@
+div.column{
+    align-content: center;
+}
+
+div.heroName{
+    font-size: 30px;
+    padding-bottom: 10px; 
+    text-align: center;
+}
+
+div.bolded {
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+div.backgroundInfo {
+    padding-bottom: 10px;
+    color: black
+}
+
+
+div.heroCard {
+    padding-bottom: 20px;
+    
+}
+
+div.heroCardEdit {
+    padding-top: 50px;
+}
+
